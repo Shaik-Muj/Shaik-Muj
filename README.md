@@ -16,6 +16,10 @@
   <a href="https://kaggle.com/smujtabahussain" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" />
   </a>
+
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Shaik-Muj&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-muj" />
 </div>
 
 <hr/>
