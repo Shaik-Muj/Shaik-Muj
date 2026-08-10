@@ -61,6 +61,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shaik-Muj&theme=tokyonight&hide_border=false" alt="streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://ghchart.rshah.org/58A6FF/Shaik-Muj" alt="contribution graph" />
 </div>
 
